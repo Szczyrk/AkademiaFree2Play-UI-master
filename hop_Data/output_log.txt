@@ -1,0 +1,64 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 540M (ID=0xdf4)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.420 seconds
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 3286x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.525631 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 331c -> priority: 1 
+  Thread -> id: 3254 -> priority: 1 
+  Thread -> id: 2f3c -> priority: 1 
+  Thread -> id: 1ed4 -> priority: 1 
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 540M (ID=0xdf4)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity-Projekty\AkademiaFree2Play-UI-master\AkademiaFree2Play-UI-master\hop_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 3286x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 45.259892 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2bb0 -> priority: 1 
+  Thread -> id: 1ea8 -> priority: 1 
+  Thread -> id: d04 -> priority: 1 
+  Thread -> id: 1aac -> priority: 1 

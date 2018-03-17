@@ -1,0 +1,11 @@
+1. Z czego wynika ten problem?
+
+Problem wynika z przeci¹¿enia procesora/pamiêci ram dodatkowymi obiektami.
+
+2. Jak moglibyœmy go rozwi¹zaæ, zak³adaj¹c, ¿e nadal chcemy mieæ jedn¹ listê (nie dzielimy na kategorie)?
+
+Problem mo¿na by rozwi¹zaæ za pomoc¹ ci¹g³ej aktualizacji listy podczas przewijania. Dodawaæ i usuwaæ obiekty na bie¿¹co.
+
+3. Dlaczego s³absze urz¹dzenia crashuj¹?
+
+Poniewa¿ nie s¹ wstanie przetworzyæ na raz tyle informacji.
